@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Aniket Kumar
 
 # 💫 About Me:
 🚀 I’m currently working on – Enhancing my MLOps skills and building machine learning models for real-world applications.<br><br>👯 I’m looking to collaborate on – Data science projects involving NLP, deep learning, and predictive analytics.<br><br>🤝 I’m looking for help with – Implementing scalable MLOps pipelines using CI/CD, Docker, and MLflow.<br><br>🌱 I’m currently learning – Advanced MLOps, model deployment, and cloud-based ML solutions.<br><br>💬 Ask me about – Machine learning, NLP, data visualization, Deep Learning, MLOPS  and statistical analysis also Good in AI.<br><br>⚡ Fun fact – I built a sentiment analysis GUI tool that improved customer feedback accuracy by 40%! 😃
